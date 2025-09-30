@@ -1,0 +1,6 @@
+Session ID,Timestamp,Name,Confidence_No,Confidence_Yes,Prediction,Risk
+75783f98,2025-04-21 18:57:40,Alice,0.76,0.24,❌ No Recurrence Expected,Low
+26cc12f2,2025-04-21 18:57:44,Demo Patient,0.63,0.37,✔️ Recurrence Likely,Intermediate
+516d2aea,2025-04-21 18:57:49,Demo Patient,0.19,0.81,✔️ Recurrence Likely,Low
+5f803ed5,2025-04-21 18:57:52,Demo Patient,0.85,0.15,❌ No Recurrence Expected,Intermediate
+cf7190e3,2025-04-21 18:57:55,Demo Patient,0.18,0.82,✔️ Recurrence Likely,Intermediate

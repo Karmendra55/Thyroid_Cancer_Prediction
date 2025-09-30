@@ -1,0 +1,4 @@
+Session ID,Timestamp,Name,Confidence_No,Confidence_Yes,Prediction,Risk,User Feedback
+67f91fea,2025-07-24 15:23:11,Patient 1,0.76,0.24,❌ No Recurrence Expected,Low,👍 Yes
+73b67296,2025-07-24 15:23:24,Patient 2,0.76,0.24,❌ No Recurrence Expected,Low,
+,,Patient 3,0.76,0.24,❌ No Recurrence Expected,Low,👍 Yes

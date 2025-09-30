@@ -1,0 +1,38 @@
+Session ID,Timestamp,Name,Confidence_No,Confidence_Yes,Prediction,Risk,User Feedback
+e71bdc7c,2025-04-21 20:00:18,Demo Patient 2,0.75,0.25,❌ No Recurrence Expected,Intermediate,
+,,Demo Patient 2,0.75,0.25,❌ No Recurrence Expected,Intermediate,👍 Yes
+4aa7c130,2025-04-21 20:00:45,Demo Patient 2,0.75,0.25,❌ No Recurrence Expected,Intermediate,
+,,Demo Patient 2,0.75,0.25,❌ No Recurrence Expected,Intermediate,👍 Yes
+630fdf31,2025-04-21 20:01:14,Demo Patient 2,0.75,0.25,❌ No Recurrence Expected,Intermediate,
+,,Demo Patient 2,0.75,0.25,❌ No Recurrence Expected,Intermediate,👍 Yes
+54b30527,2025-04-21 20:04:53,Demo Patient 3,0.17,0.83,✔️ Recurrence Likely,Intermediate,👍 Yes
+008127cd,2025-04-21 20:04:57,Demo Patient 4,0.88,0.12,❌ No Recurrence Expected,High,👍 Yes
+5490fea9,2025-04-21 20:05:00,Demo Patient 5,0.41,0.59,✔️ Recurrence Likely,Intermediate,👍 Yes
+232786e6,2025-04-21 20:05:05,Demo Patient 6,0.22,0.78,✔️ Recurrence Likely,Low,👍 Yes
+2c1d573f,2025-04-21 20:05:09,Demo Patient 7,0.38,0.62,✔️ Recurrence Likely,Low,👍 Yes
+649ccd69,2025-04-21 20:05:13,Demo Patient 8,0.12,0.88,✔️ Recurrence Likely,Low,👍 Yes
+17dcca54,2025-04-21 20:05:17,Demo Patient 9,0.44,0.56,✔️ Recurrence Likely,High,👍 Yes
+dbb2d572,2025-04-21 20:05:21,Demo Patient 10,0.09,0.91,✔️ Recurrence Likely,Intermediate,👍 Yes
+288cfbd1,2025-04-21 20:05:25,Demo Patient 11,0.57,0.43,✔️ Recurrence Likely,Low,👍 Yes
+38d4d966,2025-04-21 20:05:29,Demo Patient 12,0.31,0.69,✔️ Recurrence Likely,Intermediate,👍 Yes
+9953696a,2025-04-21 20:05:33,Demo Patient 13,0.36,0.64,✔️ Recurrence Likely,Low,👍 Yes
+112e894b,2025-04-21 20:05:37,Demo Patient 14,0.48,0.52,✔️ Recurrence Likely,Intermediate,👍 Yes
+e2c21b94,2025-04-21 20:05:41,Demo Patient 15,0.45,0.55,✔️ Recurrence Likely,High,👍 Yes
+ec8137a9,2025-04-21 20:05:50,Demo Patient 16,0.65,0.35,✔️ Recurrence Likely,High,
+,,Demo Patient 16,0.65,0.35,✔️ Recurrence Likely,High,👍 Yes
+0bcef61e,2025-04-21 20:06:38,Demo Patient 17,0.57,0.43,✔️ Recurrence Likely,Intermediate,👍 Yes
+f597e27e,2025-04-21 20:06:41,Demo Patient 17,0.57,0.43,✔️ Recurrence Likely,Intermediate,
+,,Demo Patient 17,0.57,0.43,✔️ Recurrence Likely,Intermediate,👍 Yes
+2067ddec,2025-04-21 20:07:59,Demo Patient 18,0.65,0.35,✔️ Recurrence Likely,Intermediate,
+,,Demo Patient 18,0.65,0.35,✔️ Recurrence Likely,Intermediate,👍 Yes
+230a78ab,2025-04-21 20:08:58,Demo Patient 19,0.21,0.79,✔️ Recurrence Likely,Low,
+fd0446a1,2025-04-21 20:09:39,Roy,0.6,0.4,✔️ Recurrence Likely,Intermediate,
+,,Roy,0.6,0.4,✔️ Recurrence Likely,Intermediate,👍 Yes
+12eacd62,2025-04-21 20:13:11,Sassa,0.63,0.37,✔️ Recurrence Likely,Intermediate,
+,,Sassa,0.63,0.37,✔️ Recurrence Likely,Intermediate,👍 Yes
+e6af68e5,2025-04-21 20:13:43,Sassa,0.63,0.37,✔️ Recurrence Likely,Intermediate,
+,,Sassa,0.63,0.37,✔️ Recurrence Likely,Intermediate,👍 Yes
+004b03b3,2025-04-21 20:16:51,Demo Patient 20,0.21,0.79,✔️ Recurrence Likely,Intermediate,
+,,Demo Patient 20,0.21,0.79,✔️ Recurrence Likely,Intermediate,👍 Yes
+692c6f76,2025-04-21 20:17:40,Demo Patient 20,0.21,0.79,✔️ Recurrence Likely,Intermediate,
+,,Demo Patient 20,0.21,0.79,✔️ Recurrence Likely,Intermediate,👍 Yes

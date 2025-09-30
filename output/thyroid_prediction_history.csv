@@ -1,0 +1,11 @@
+Session ID,Timestamp,Name,Confidence_No,Confidence_Yes,Prediction,Risk
+70cfa14c,2025-04-17 17:58:44,Demo Patient,0.37,0.63,✔️ Recurrence Likely,Intermediate
+8aec40f9,2025-04-17 17:58:48,Demo Patient,0.08,0.92,✔️ Recurrence Likely,Low
+f1552345,2025-04-17 17:59:06,Demo Patient,0.24,0.76,✔️ Recurrence Likely,Low
+459ce9b8,2025-04-17 17:59:11,Demo Patient,0.31,0.69,✔️ Recurrence Likely,High
+d679f19c,2025-04-17 17:59:15,Demo Patient,0.66,0.34,Borderline,High
+6006b8f0,2025-04-17 17:59:18,Demo Patient,0.73,0.27,❌ No Recurrence Expected,High
+96cc5590,2025-04-17 17:59:21,Demo Patient,0.8,0.2,❌ No Recurrence Expected,High
+2460ce13,2025-04-17 17:59:24,Demo Patient,0.42,0.58,✔️ Recurrence Likely,High
+eccf5835,2025-04-17 17:59:28,Demo Patient,0.81,0.19,❌ No Recurrence Expected,High
+0b53c231,2025-04-17 17:59:31,Demo Patient,0.65,0.35,Borderline,Low

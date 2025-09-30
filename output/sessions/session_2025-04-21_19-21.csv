@@ -1,0 +1,3 @@
+Session ID,Timestamp,Name,Confidence_No,Confidence_Yes,Prediction,Risk
+2fdb6e67,2025-04-21 19:21:08,Demo Patient,0.71,0.29,❌ No Recurrence Expected,Intermediate
+b8e47f7d,2025-04-21 19:21:11,Demo Patient,0.75,0.25,❌ No Recurrence Expected,High

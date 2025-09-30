@@ -1,0 +1,4 @@
+Session ID,Timestamp,Name,Confidence_No,Confidence_Yes,Prediction,Risk,HighRisk,User Feedback
+b35c6c4a,2025-09-18 12:52:48,Patient 1,0.53,0.47,⚠️ Borderline,Low,0,👍 Yes
+c0412736,2025-09-18 13:06:24,Patient 2,0.53,0.47,⚠️ Borderline,Low,0,👍 Yes
+8a986338,2025-09-18 13:07:28,Demo Patient 3,0.87,0.13,❌ No Recurrence Expected,High,1,

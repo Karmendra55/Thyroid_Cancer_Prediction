@@ -1,0 +1,5 @@
+Session ID,Timestamp,Name,Confidence_No,Confidence_Yes,Prediction,Risk,User Feedback
+1657cfea,2025-04-22 18:29:05,Demo Patient 1,0.14,0.86,✔️ Recurrence Likely,Low,👍 Yes
+c78a0166,2025-04-22 18:29:09,Demo Patient 2,0.49,0.51,✔️ Recurrence Likely,Intermediate,👍 Yes
+029d2fd1,2025-04-22 18:31:42,Demo Patient 3,0.32,0.68,✔️ Recurrence Likely,Low,👍 Yes
+b9981cb4,2025-04-22 18:31:54,Demo Patient 3,0.32,0.68,✔️ Recurrence Likely,Low,👍 Yes

@@ -1,0 +1,2 @@
+Session ID,Timestamp,Name,Confidence_No,Confidence_Yes,Prediction,Risk
+16cc63a0,2025-04-21 19:08:55,Demo Patient,0.68,0.32,⚠️ Borderline,Intermediate

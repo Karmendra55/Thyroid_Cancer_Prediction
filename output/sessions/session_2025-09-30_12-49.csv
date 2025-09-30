@@ -1,0 +1,2 @@
+Session ID,Timestamp,Name,Confidence_No,Confidence_Yes,Prediction,Risk,HighRisk
+8d44b416,2025-09-30 12:49:12,Patient 1,0.53,0.47,⚠️ Borderline,Low,0

@@ -1,0 +1,4 @@
+Session ID,Timestamp,Name,Confidence_No,Confidence_Yes,Prediction,Risk
+10883a04,2025-04-21 18:32:14,Vyakhya,0.76,0.24,❌ No Recurrence Expected,Low
+e9b4fb47,2025-04-21 18:34:13,Bob,0.76,0.24,❌ No Recurrence Expected,Low
+a5da7665,2025-04-21 18:34:17,Demo Patient,0.4,0.6,✔️ Recurrence Likely,Low
