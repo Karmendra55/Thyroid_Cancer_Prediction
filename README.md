@@ -27,4 +27,4 @@ OR
 3) Target the location to the root folder, in any bash/powershell command
 using `cd {location}`
 
-Then type `streamlit run main.py` and the file will open in the web browse
+Then type `streamlit run main.py` and the file will open in the web browse.
