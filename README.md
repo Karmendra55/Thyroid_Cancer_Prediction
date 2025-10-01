@@ -7,12 +7,12 @@ This project uses a Random Forest model trained to predict the recurrence of thy
 The Dataset and Models are already in place, If you want to change the files you can replace these:
 
 ``` markdown
-dataset/
-    dataset.csv
+> dataset/
+>    dataset.csv
 
-trained_model/
-    thyroid_recurrence_rf.pkl
-    thyroid_recurrence_rf_only.pkl
+> trained_model/
+>    thyroid_recurrence_rf.pkl
+>    thyroid_recurrence_rf_only.pkl
 ```
 
 If all the files are present:
