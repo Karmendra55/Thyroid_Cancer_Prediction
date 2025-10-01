@@ -15,16 +15,23 @@ The Dataset and Models are already in place, If you want to change the files you
 >    thyroid_recurrence_rf_only.pkl
 ```
 
-If all the files are present:
+make sure that all the files are present in the root folder.
 
-> Run the `install_modules.bat` file
+## Quickstart
+
+1) Create and activate a virtual environment
+>   ```python -m venv .venv```
+source .venv/bin/activate  # Windows: .venv\Scripts\activate
+
+> Run the file in the root folder
+```bash
+install_modules.bat
+```
 then follow the below steps to run the program
 
 Quickstart
 
-1) Create a venv
-python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
+
 
 2) Ones again check if the `dataset` and `model` files are present in the root folder `dataset/` and `trained_model`
 
