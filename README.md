@@ -1,10 +1,19 @@
 # Thyroid_Cancer_Prediction
 
-The Thyroid Cancer is a Random Forest Trained Prediction System, which helps in predicting the Reoccurrence of a past cancer patient, The goal is to train a model powered by Streamlit for the user to input the details and get the recurrence probability and whether they are likely or not to have cancer.
+This project uses a Random Forest model trained to predict the recurrence of thyroid cancer in patients. The application is powered by Streamlit, allowing users to input medical details and receive a probability score along with a recurrence prediction.
 
 ## Dataset Layout
 
-The original dataset can be found in `dataset/dataset.csv` folder
+The Dataset and Models are already in place, If you want to change the files you can replace these:
+
+``` markdown
+dataset/
+    dataset.csv
+
+trained_model/
+    thyroid_recurrence_rf.pkl
+    thyroid_recurrence_rf_only.pkl
+```
 
 If all the files are present:
 
