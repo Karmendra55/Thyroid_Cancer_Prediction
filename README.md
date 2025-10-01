@@ -20,27 +20,43 @@ make sure that all the files are present in the root folder.
 ## Quickstart
 
 1) Create and activate a virtual environment
->   ```python -m venv .venv```
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
+```bash
+python -m venv .venv
+```
+For Linux or Max:
+```bash
+source .venv/bin/activate
+```
+For Windows:
+```bash
+.venv\Scripts\activate
+```
 
-> Run the file in the root folder
+2) Now Run the file to install the dependencies
 ```bash
 install_modules.bat
 ```
-then follow the below steps to run the program
 
-Quickstart
+Run the Application
+3a) Option A
+```bash
+run.bat
+```
 
+3b) Option B
+- Open the command/bash and do the follow:
+```bash
+cd {Location of the "Drive:/file/.../Thyroid_Cancer_Prediction/"}
+```
+and type
+```bash
+streamlit run main.py
+```
 
+Make sure all files are placed as shown in the dataset layout, Once started, the application will open in your default web browser.
 
-2) Ones again check if the `dataset` and `model` files are present in the root folder `dataset/` and `trained_model`
+## Features
 
-3) Now run the Application
-   Open the `run.bat` file
-
-OR
-
-3) Target the location to the root folder, in any bash/powershell command
-using `cd {location}`
-
-Then type `streamlit run main.py` and the file will open in the web browse.
+- Patient detail input via Streamlit form
+- Prediction of thyroid cancer recurrence probability and voice narration
+- The User can predict various different data and compare them with any of the saved ones.
